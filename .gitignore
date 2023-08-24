@@ -1,0 +1,15 @@
+# Ignore .ipynb_checkpoints folders
+.ipynb_checkpoints/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Python virtual environments
+venv/
+
+# Ignore .ipynb_checkpoints folder inside notebooks folder
+notebooks/.ipynb_checkpoints/
+
+# Ignore __pycache__ folder inside src folder
+src/__pycache__/
