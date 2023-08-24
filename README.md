@@ -121,7 +121,7 @@ Contributions to this repository are welcome and encouraged. If you have insight
 
 ## **7. License**
 
-This repository is available under the [MIT License](LICENSE). Feel free to use and adapt the content for your purposes.
+This repository is available under the [MIT License](MIT-LICENSE.txt). Feel free to use and adapt the content for your purposes.
 
 
 ## **8. Reference Papers**
